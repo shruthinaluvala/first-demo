@@ -1,3 +1,3 @@
 # first-demo
-This is my first repository at github
+This is my first Repository at Github.
 Author-Shruthi
